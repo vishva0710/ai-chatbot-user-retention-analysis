@@ -1,0 +1,11 @@
+# environmental variable  
+.env
+# jupyter  notebook
+.ipynb_checkpoints/
+#python 
+_pycache_/
+.*pyc
+# Virtual Environment
+venv/
+.venv/
+env/
