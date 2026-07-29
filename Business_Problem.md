@@ -40,7 +40,7 @@ This project aims to answer the following questions:
 
 7. Does subscription status impact retention?
 
-8. Which chatbot features are most frequently used by retained users?
+8.Which conversation topics are most frequently discussed by retained users?
 
 9. Does response time affect user satisfaction?
 
