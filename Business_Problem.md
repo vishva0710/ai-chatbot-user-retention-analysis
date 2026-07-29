@@ -40,11 +40,9 @@ This project aims to answer the following questions:
 
 7. Does subscription status impact retention?
 
-8.Which conversation topics are most frequently discussed by retained users?
+8. Does response time affect user satisfaction?
 
-9. Does response time affect user satisfaction?
-
-10. What actions can the company take to improve long-term user retention?
+9. What actions can the company take to improve long-term user retention?
 
 
 ---
