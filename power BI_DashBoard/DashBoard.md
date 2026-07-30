@@ -4,4 +4,4 @@
 
 ### Users Dashboard
 
-![Users Dashboard](power_BI_DashBoard/users_dashboard.png)
+![Users Dashboard](power BI_DashBoard/users_dashboard.png)
