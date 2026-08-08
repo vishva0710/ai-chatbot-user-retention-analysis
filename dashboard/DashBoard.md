@@ -4,4 +4,4 @@
 
 ### Users Dashboard
 
-![Executive Summary](Executive Summary.png)
+![Executive Summary](./executive-summary.png)
