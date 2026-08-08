@@ -8,4 +8,4 @@
 
 ### User Retention & Engagement
 
-![User Retention & Engagement].(./User_Retention _Engagement.png)
+![User Retention & Engagement](./User_Retention_Engagement.png)
